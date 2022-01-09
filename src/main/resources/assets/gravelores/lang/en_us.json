@@ -1,0 +1,10 @@
+{
+  "block.gravelores.vanilla_gravel_coal_ore": "Gravel Coal Ore",
+  "block.gravelores.vanilla_gravel_iron_ore": "Gravel Iron Ore",
+  "block.gravelores.vanilla_gravel_gold_ore": "Gravel Gold Ore",
+  "block.gravelores.vanilla_gravel_lapis_ore": "Gravel Lapis Ore",
+  "block.gravelores.vanilla_gravel_redstone_ore": "Gravel Redstone Ore",
+  "block.gravelores.vanilla_gravel_diamond_ore": "Gravel Diamond Ore",
+  "block.gravelores.vanilla_gravel_emerald_ore": "Gravel Emerald Ore",
+  "itemGroup.gravelores": "Gravel Ores"
+}

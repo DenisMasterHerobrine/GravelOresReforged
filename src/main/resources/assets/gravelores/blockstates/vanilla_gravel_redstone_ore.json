@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "": {
+        	"model": "gravelores:block/vanilla_gravel_redstone_ore" 
+        }
+    }
+}
