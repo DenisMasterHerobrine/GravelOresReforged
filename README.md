@@ -17,7 +17,7 @@ This mod adds a bunch of gravel variants of ores (vanilla or modded) with a conf
  - Vanilla ores supported only at the moment. Modded ores will come later.
 
 # Ports?
-- Fabric: **Not planned**, but there's no ETA at the moment of writing this.
+- Fabric: **Not planned**. Feel free to use [shedaniel's Gravel Ores](https://www.curseforge.com/minecraft/mc-mods/gravel-ores-fabric)
 - Forge:
 - - 1.18.x: Planned. Will be maintained after first 1.16.x initial release.
 - - 1.16.x: Unstable, currently preparing config file to be working as expected with worldgen. Missing worldgen and configuration file at the moment. 
